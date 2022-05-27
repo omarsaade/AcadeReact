@@ -22,7 +22,7 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
-/* css dynamically */
+
 .form-control.invalid input {
   border-color: red;
   background: #ffd7d7;
